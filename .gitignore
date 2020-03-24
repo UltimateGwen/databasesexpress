@@ -1,0 +1,5 @@
+# Node modules folder excluded
+node_modules/
+
+#All the files with .env extension
+*.env

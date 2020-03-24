@@ -1,0 +1,25 @@
+{
+  "name": "databasesexpress",
+  "version": "1.0.0",
+  "description": "Backend API for Vantea Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltimateGwen/databasesexpress.git"
+  },
+  "author": "Danya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UltimateGwen/databasesexpress/issues"
+  },
+  "homepage": "https://github.com/UltimateGwen/databasesexpress#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
